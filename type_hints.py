@@ -15,8 +15,6 @@ class Duck:
 
 e = 1
 
-from pathlib import Path
-from typing import Type
 
 # var: int = 1
 # var = "hi"
