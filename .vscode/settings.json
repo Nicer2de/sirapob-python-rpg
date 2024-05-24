@@ -1,0 +1,22 @@
+{
+    "editor.formatOnSave": true,
+    "editor.rulers": [
+        // {
+        //     "color": "lightblue",
+        //     "column": 79
+        // },
+        {
+            "color": "lightgreen",
+            "column": 99
+        },
+    ],
+    "black-formatter.args": [
+        "--line-length=99"
+    ],
+    "editor.overviewRulerBorder": false,
+    "[python]": {
+        "editor.codeActionsOnSave": {
+            "source.organizeImports": "explicit"
+        },
+    },
+}
